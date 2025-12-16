@@ -11,7 +11,7 @@
   
   <p>
     <b>Bachelor of Engineering in AI & ML (Honours)</b><br>
-    [cite_start]<i>Bangalore Technological Institute</i> [cite: 4, 5]
+    <i>Bangalore Technological Institute</i>
   </p>
 
   <p>
@@ -31,8 +31,8 @@
 
 <h3 align="center">🌷 About Me 🌷</h3>
 <p align="center">
-  [cite_start]I am an AI enthusiast based in <b>Bengaluru</b> [cite: 7] with a passion for creating intelligent systems that care. 
-  [cite_start]Whether it's building <b>pet robots</b> [cite: 14] [cite_start]or <b>healthcare apps</b>[cite: 18], I love blending complex algorithms with human-centric design.
+  I am an AI enthusiast based in <b>Bengaluru</b> with a passion for creating intelligent systems that care. 
+  Whether it's building <b>pet robots</b> or <b>healthcare apps</b>, I love blending complex algorithms with human-centric design.
 </p>
 
 ---
@@ -72,7 +72,7 @@
       </td>
     </tr>
   </table>
-  [cite_start]<p><i>Also proficient in Data Structures & Algorithms!</i> [cite: 8]</p>
+  <p><i>Also proficient in Data Structures & Algorithms!</i></p>
 </div>
 
 ---
@@ -81,10 +81,10 @@
 
 | 🏆 **Role / Project** | 📝 **Key Contributions** |
 | :--- | :--- |
-| [cite_start]**Nutrix** <br> *ML Engineer (Part-Time)* [cite: 18, 19] | [cite_start]• Developed ML pipelines for personalized **workout generation**. [cite: 20] [cite_start]<br> • Integrated AI models with backend APIs in production. [cite: 20] |
-| [cite_start]**Wipro DICE** <br> *Machine Learning Intern* [cite: 21, 22] | [cite_start]• Worked on supervised ML models & structured experimentation. [cite: 23] [cite_start]<br> • Used **MLflow** for tracking and reproducibility. [cite: 23] |
-| [cite_start]**ASHA AI** <br> *Project Lead* [cite: 11] | [cite_start]• Built a **Job Platform for Women** with safety-focused filtering. [cite: 11, 12] [cite_start]<br> • Used **TF-IDF & Cosine Similarity** for matching logic. [cite: 12] |
-| [cite_start]**Pet Robot** <br> *Team Lead* [cite: 14] | [cite_start]• Created an AI Personal Assistant for **emotion-aware interaction**. [cite: 15] [cite_start]<br> • Implemented **Computer Vision & NLP** pipelines. [cite: 15] |
+| **Nutrix** <br> *ML Engineer (Part-Time)* | • Developed ML pipelines for personalized **workout generation**. <br> • Integrated AI models with backend APIs in production. |
+| **Wipro DICE** <br> *Machine Learning Intern* | • Worked on supervised ML models & structured experimentation. <br> • Used **MLflow** for tracking and reproducibility. |
+| **ASHA AI** <br> *Project Lead* | • Built a **Job Platform for Women** with safety-focused filtering. <br> • Implemented recommendation logic using **TF-IDF & Cosine Similarity**. |
+| **Pet Robot** <br> *Team Lead* | • Created an AI Personal Assistant for **emotion-aware interaction**. <br> • Implemented **Computer Vision & NLP** pipelines. |
 
 <br>
 
@@ -94,15 +94,15 @@
       <td align="center" style="padding-right: 20px;">
         <h3>💪 My Superpowers</h3>
         <p>
-          [cite_start]🗣️ Communication [cite: 9]<br>
-          [cite_start]🧩 Problem Solving [cite: 9]<br>
-          [cite_start]🤝 Team Collaboration [cite: 9]<br>
-          [cite_start]🦎 Adaptability [cite: 9]
+          🗣️ Communication<br>
+          🧩 Problem Solving<br>
+          🤝 Team Collaboration<br>
+          🦎 Adaptability
         </p>
       </td>
       <td align="center" style="border-left: 2px solid #FF69B4; padding-left: 20px;">
         <h3>📚 Research Spotlight</h3>
-        [cite_start]<p><b>"AI Applications in Mental Healthcare"</b> [cite: 26]</p>
+        <p><b>"AI Applications in Mental Healthcare"</b></p>
         <img src="https://img.shields.io/badge/Status-Published-FF1493?style=flat-square" />
       </td>
     </tr>
